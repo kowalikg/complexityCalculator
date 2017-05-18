@@ -1,0 +1,3 @@
+Marcin PrzewiêŸlikowski: https://github.com/AGHPythonCourse2017/zad01-mprzewie/pull/1#pullrequestreview-36671349
+Dawid Tomasiewicz: https://github.com/AGHPythonCourse2017/zad01-dawtom/pull/1#pullrequestreview-36671594
+£ukasz Uchman: https://github.com/AGHPythonCourse2017/zad01-WookaszU/pull/1#pullrequestreview-36672099
